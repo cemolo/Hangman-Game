@@ -1,0 +1,33 @@
+.container {
+  height: 900px;
+  background-image: url(../image/hm.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-sizing: border-box;
+}
+
+#scoreboard{
+  float: left;
+  width: 300px;
+  height: 250px;
+  background-color: #a6d0e0;
+  border: 1px solid #694717;
+}
+#title{
+  padding-top: 15px;
+  text-align: center;
+  width: 500px;
+  height: 100px;
+  background-color: #c4cbd6;
+  border-bottom: 2px solid #000000;
+}
+
+#panel-body{
+  padding-top: 15px;
+  text-align: center;
+  width: 400px;
+  height: 100px;
+  background-color: #bcd6e0;
+  border-bottom: 2px solid #000000;
+}
